@@ -142,7 +142,7 @@ client.on('message', async message => {
 }
     }
 })
-//Hello
+
 // Login to Discord with your client's token
 client.login(token);
 
